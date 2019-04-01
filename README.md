@@ -1,0 +1,4 @@
+# Dagger2Usage
+Dagger2从入门到放弃，非常棒的一款依赖注入框架，帮助项目解耦
+
+feature_di分支讲的是依赖注入和依赖倒置和ioc容器的概念
